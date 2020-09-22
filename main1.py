@@ -155,7 +155,7 @@ def main():
         device = torch.device('cpu')
     else:
         if torch.cuda.is_available():
-            device = torch.device('cuda')
+            device = torch.device('cuda:0')
             # n_gpu = torch.cuda.device_count()
             # print("----------------------------------------------------------")
             # print("|       use GPU !      ||   Available GPU number is {} !  |".format(n_gpu))
