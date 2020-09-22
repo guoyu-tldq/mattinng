@@ -80,10 +80,10 @@ class Train_Log():
         if not os.path.exists(self.save_dir_model):
             os.makedirs(self.save_dir_model)
 
-        # if os.path.exists(self.save_dir + '/log.txt'):
-        #     self.logFile = open(self.save_dir + '/log.txt', 'a')
-        # else:
-        #     self.logFile = open(self.save_dir + '/log.txt', 'w')
+        if os.path.exists(self.save_dir + '/log.txt'):
+            self.logFile = open(self.save_dir + '/log.txt', 'a')
+        else:
+            self.logFile = open(self.save_dir + '/log.txt', 'w')
 
     def save_model(self, model, epoch):
 
@@ -117,16 +117,16 @@ class Train_Log():
         return start_epoch, model
 
     def save_log(self, log):
-        dir = 'D:/matting/mobile_phone_human_matting-master-gpu/result_gpu'
-        if os.path.exists(dir + '\\log.txt'):
-            self.logFile = open(dir + '\\log.txt', 'a')
-            print("logfile", self.logFile)
-        else:
-            self.logFile = open(dir + '\\log.txt', 'w')
-            print("logfile1", self.logFile)
+        # dir = 'D:/matting/mobile_phone_human_matting-master-gpu/result_gpu'
+        # if os.path.exists(dir + '\\log.txt'):
+        #     self.logFile = open(dir + '\\log.txt', 'a')
+        #     print("logfile", self.logFile)
+        # else:
+        #     self.logFile = open(dir + '\\log.txt', 'w')
+        #     print("logfile1", self.logFile)
 
         self.logFile.write(log + '\n')
-        self.logFile.close()
+        # self.logFile.close()
 
 
 def fusion_loss(args, img, mask_gt, seg, alpha_gt, alpha, eps=1e-6):
