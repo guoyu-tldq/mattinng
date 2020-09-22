@@ -1,0 +1,189 @@
+test log...............
+test log...............
+test log...............
+test log...............
+test log...............
+test log...............
+test log...............
+[5 / 50] 	Lr: 0.00100
+loss: 0.19355   loss_alpha: 0.05251   loss_color: 0.01396   loss_cross: 0.12708
+[6 / 50] 	Lr: 0.00100
+loss: 0.19044   loss_alpha: 0.05138   loss_color: 0.01379   loss_cross: 0.12527
+[7 / 50] 	Lr: 0.00100
+loss: 0.18492   loss_alpha: 0.04984   loss_color: 0.01338   loss_cross: 0.12170
+[8 / 50] 	Lr: 0.00100
+loss: 0.18034   loss_alpha: 0.04859   loss_color: 0.01303   loss_cross: 0.11872
+[9 / 50] 	Lr: 0.00100
+loss: 0.17682   loss_alpha: 0.04772   loss_color: 0.01277   loss_cross: 0.11633
+[10 / 50] 	Lr: 0.00100
+loss: 0.17713   loss_alpha: 0.04781   loss_color: 0.01284   loss_cross: 0.11649
+test log...............
+test log...............
+[10 / 50] 	Lr: 0.00100
+loss: 0.17485   loss_alpha: 0.04725   loss_color: 0.01279   loss_cross: 0.11481
+[11 / 50] 	Lr: 0.00100
+loss: 0.17032   loss_alpha: 0.04590   loss_color: 0.01241   loss_cross: 0.11201
+[12 / 50] 	Lr: 0.00100
+loss: 0.16620   loss_alpha: 0.04472   loss_color: 0.01197   loss_cross: 0.10952
+[13 / 50] 	Lr: 0.00100
+loss: 0.16811   loss_alpha: 0.04541   loss_color: 0.01214   loss_cross: 0.11056
+[14 / 50] 	Lr: 0.00100
+loss: 0.17018   loss_alpha: 0.04602   loss_color: 0.01239   loss_cross: 0.11177
+[15 / 50] 	Lr: 0.00100
+loss: 0.16648   loss_alpha: 0.04477   loss_color: 0.01203   loss_cross: 0.10968
+[16 / 50] 	Lr: 0.00100
+loss: 0.16543   loss_alpha: 0.04459   loss_color: 0.01207   loss_cross: 0.10877
+[17 / 50] 	Lr: 0.00100
+loss: 0.16178   loss_alpha: 0.04347   loss_color: 0.01179   loss_cross: 0.10652
+test log...............
+test log...............
+[17 / 50] 	Lr: 0.00100
+loss: 0.16206   loss_alpha: 0.04407   loss_color: 0.01185   loss_cross: 0.10613
+[18 / 50] 	Lr: 0.00100
+loss: 0.16093   loss_alpha: 0.04327   loss_color: 0.01180   loss_cross: 0.10585
+[19 / 50] 	Lr: 0.00100
+loss: 0.15969   loss_alpha: 0.04302   loss_color: 0.01171   loss_cross: 0.10496
+[20 / 50] 	Lr: 0.00100
+loss: 0.15988   loss_alpha: 0.04323   loss_color: 0.01167   loss_cross: 0.10498
+[21 / 50] 	Lr: 0.00100
+loss: 0.15720   loss_alpha: 0.04232   loss_color: 0.01142   loss_cross: 0.10346
+[22 / 50] 	Lr: 0.00100
+loss: 0.16047   loss_alpha: 0.04329   loss_color: 0.01170   loss_cross: 0.10548
+[23 / 50] 	Lr: 0.00100
+loss: 0.15704   loss_alpha: 0.04221   loss_color: 0.01146   loss_cross: 0.10337
+[24 / 50] 	Lr: 0.00100
+loss: 0.15699   loss_alpha: 0.04219   loss_color: 0.01134   loss_cross: 0.10347
+[25 / 50] 	Lr: 0.00100
+loss: 0.15568   loss_alpha: 0.04190   loss_color: 0.01134   loss_cross: 0.10244
+[26 / 50] 	Lr: 0.00100
+loss: 0.15766   loss_alpha: 0.04246   loss_color: 0.01152   loss_cross: 0.10368
+[27 / 50] 	Lr: 0.00100
+loss: 0.15609   loss_alpha: 0.04186   loss_color: 0.01137   loss_cross: 0.10286
+[28 / 50] 	Lr: 0.00100
+loss: 0.15682   loss_alpha: 0.04224   loss_color: 0.01134   loss_cross: 0.10323
+[29 / 50] 	Lr: 0.00100
+loss: 0.15109   loss_alpha: 0.04049   loss_color: 0.01105   loss_cross: 0.09954
+[30 / 50] 	Lr: 0.00100
+loss: 0.15447   loss_alpha: 0.04149   loss_color: 0.01124   loss_cross: 0.10173
+[31 / 50] 	Lr: 0.00100
+loss: 0.15494   loss_alpha: 0.04170   loss_color: 0.01124   loss_cross: 0.10200
+test log...............
+test log...............
+[31 / 50] 	Lr: 0.00100
+loss: 0.15259   loss_alpha: 0.04122   loss_color: 0.01119   loss_cross: 0.10019
+[32 / 50] 	Lr: 0.00100
+loss: 0.15174   loss_alpha: 0.04081   loss_color: 0.01112   loss_cross: 0.09981
+[33 / 50] 	Lr: 0.00100
+loss: 0.15453   loss_alpha: 0.04161   loss_color: 0.01134   loss_cross: 0.10158
+[34 / 50] 	Lr: 0.00100
+loss: 0.15064   loss_alpha: 0.04069   loss_color: 0.01107   loss_cross: 0.09888
+[35 / 50] 	Lr: 0.00100
+loss: 0.15247   loss_alpha: 0.04075   loss_color: 0.01092   loss_cross: 0.10079
+test log...............
+test log...............
+[35 / 50] 	Lr: 0.00100
+loss: 0.15288   loss_alpha: 0.04116   loss_color: 0.01121   loss_cross: 0.10052
+[36 / 50] 	Lr: 0.00100
+loss: 0.15409   loss_alpha: 0.04137   loss_color: 0.01119   loss_cross: 0.10152
+[37 / 50] 	Lr: 0.00100
+loss: 0.14901   loss_alpha: 0.03976   loss_color: 0.01084   loss_cross: 0.09841
+[38 / 50] 	Lr: 0.00100
+loss: 0.15037   loss_alpha: 0.04036   loss_color: 0.01094   loss_cross: 0.09907
+[39 / 50] 	Lr: 0.00100
+loss: 0.15202   loss_alpha: 0.04066   loss_color: 0.01107   loss_cross: 0.10029
+[40 / 50] 	Lr: 0.00100
+loss: 0.14860   loss_alpha: 0.03991   loss_color: 0.01091   loss_cross: 0.09779
+[41 / 50] 	Lr: 0.00100
+loss: 0.14913   loss_alpha: 0.04021   loss_color: 0.01094   loss_cross: 0.09798
+[42 / 50] 	Lr: 0.00100
+loss: 0.15079   loss_alpha: 0.04054   loss_color: 0.01115   loss_cross: 0.09910
+[43 / 50] 	Lr: 0.00100
+loss: 0.15215   loss_alpha: 0.04080   loss_color: 0.01115   loss_cross: 0.10021
+[44 / 50] 	Lr: 0.00100
+loss: 0.14914   loss_alpha: 0.04008   loss_color: 0.01090   loss_cross: 0.09816
+[45 / 50] 	Lr: 0.00100
+loss: 0.14832   loss_alpha: 0.03994   loss_color: 0.01074   loss_cross: 0.09764
+[46 / 50] 	Lr: 0.00100
+loss: 0.14951   loss_alpha: 0.04009   loss_color: 0.01094   loss_cross: 0.09848
+[47 / 50] 	Lr: 0.00100
+loss: 0.14469   loss_alpha: 0.03875   loss_color: 0.01052   loss_cross: 0.09543
+[48 / 50] 	Lr: 0.00100
+loss: 0.14998   loss_alpha: 0.04026   loss_color: 0.01101   loss_cross: 0.09871
+[49 / 50] 	Lr: 0.00100
+loss: 0.15002   loss_alpha: 0.04031   loss_color: 0.01098   loss_cross: 0.09872
+[50 / 50] 	Lr: 0.00100
+loss: 0.14909   loss_alpha: 0.04002   loss_color: 0.01096   loss_cross: 0.09811
+test log...............
+test log...............
+test log...............
+test log...............
+[51 / 100] 	Lr: 0.00100
+loss: 0.14944   loss_alpha: 0.04000   loss_color: 0.01091   loss_cross: 0.09854
+[52 / 100] 	Lr: 0.00100
+loss: 0.14525   loss_alpha: 0.03892   loss_color: 0.01061   loss_cross: 0.09572
+[53 / 100] 	Lr: 0.00100
+loss: 0.14721   loss_alpha: 0.03964   loss_color: 0.01071   loss_cross: 0.09686
+[54 / 100] 	Lr: 0.00100
+loss: 0.14970   loss_alpha: 0.04017   loss_color: 0.01094   loss_cross: 0.09859
+[55 / 100] 	Lr: 0.00100
+loss: 0.15003   loss_alpha: 0.04030   loss_color: 0.01101   loss_cross: 0.09872
+[56 / 100] 	Lr: 0.00100
+loss: 0.14752   loss_alpha: 0.03937   loss_color: 0.01082   loss_cross: 0.09733
+[57 / 100] 	Lr: 0.00100
+loss: 0.14433   loss_alpha: 0.03883   loss_color: 0.01062   loss_cross: 0.09488
+test log...............
+test log...............
+[58 / 100] 	Lr: 0.00100
+loss: 0.14839   loss_alpha: 0.03974   loss_color: 0.01085   loss_cross: 0.09780
+test log...............
+test log...............
+[59 / 100] 	Lr: 0.00100
+loss: 0.14685   loss_alpha: 0.03944   loss_color: 0.01083   loss_cross: 0.09658
+[60 / 100] 	Lr: 0.00100
+loss: 0.14354   loss_alpha: 0.03851   loss_color: 0.01058   loss_cross: 0.09445
+[61 / 100] 	Lr: 0.00100
+loss: 0.14631   loss_alpha: 0.03910   loss_color: 0.01074   loss_cross: 0.09647
+[62 / 100] 	Lr: 0.00100
+loss: 0.14472   loss_alpha: 0.03843   loss_color: 0.01042   loss_cross: 0.09587
+[63 / 100] 	Lr: 0.00100
+loss: 0.14845   loss_alpha: 0.03961   loss_color: 0.01085   loss_cross: 0.09799
+[64 / 100] 	Lr: 0.00100
+loss: 0.14473   loss_alpha: 0.03868   loss_color: 0.01059   loss_cross: 0.09546
+test log...............
+test log...............
+[65 / 100] 	Lr: 0.00100
+loss: 0.14772   loss_alpha: 0.03952   loss_color: 0.01081   loss_cross: 0.09738
+[66 / 100] 	Lr: 0.00100
+loss: 0.14494   loss_alpha: 0.03886   loss_color: 0.01060   loss_cross: 0.09548
+[67 / 100] 	Lr: 0.00100
+loss: 0.14228   loss_alpha: 0.03804   loss_color: 0.01043   loss_cross: 0.09382
+test log...............
+test log...............
+[68 / 100] 	Lr: 0.00100
+loss: 0.14412   loss_alpha: 0.03861   loss_color: 0.01053   loss_cross: 0.09498
+[69 / 100] 	Lr: 0.00100
+loss: 0.14715   loss_alpha: 0.03955   loss_color: 0.01085   loss_cross: 0.09675
+[70 / 100] 	Lr: 0.00100
+loss: 0.14637   loss_alpha: 0.03919   loss_color: 0.01067   loss_cross: 0.09650
+[71 / 100] 	Lr: 0.00100
+loss: 0.14401   loss_alpha: 0.03847   loss_color: 0.01054   loss_cross: 0.09500
+ test log...............
+test log...............
+[72 / 100] 	Lr: 0.00100
+loss: 0.14426   loss_alpha: 0.03877   loss_color: 0.01062   loss_cross: 0.09487
+[73 / 100] 	Lr: 0.00100
+loss: 0.14914   loss_alpha: 0.04014   loss_color: 0.01107   loss_cross: 0.09793
+[74 / 100] 	Lr: 0.00100
+loss: 0.14567   loss_alpha: 0.03887   loss_color: 0.01074   loss_cross: 0.09607
+[75 / 100] 	Lr: 0.00100
+loss: 0.14932   loss_alpha: 0.04007   loss_color: 0.01099   loss_cross: 0.09827
+[76 / 100] 	Lr: 0.00100
+loss: 0.14368   loss_alpha: 0.03856   loss_color: 0.01047   loss_cross: 0.09464
+[77 / 100] 	Lr: 0.00100
+loss: 0.14582   loss_alpha: 0.03921   loss_color: 0.01076   loss_cross: 0.09585
+[78 / 100] 	Lr: 0.00100
+loss: 0.14571   loss_alpha: 0.03887   loss_color: 0.01063   loss_cross: 0.09621
+test log...............
+test log...............
+[1884 / 5500] 	Lr: 0.00100
+loss: 0.23413   loss_alpha: 0.06289   loss_color: 0.01695   loss_cross: 0.15428
